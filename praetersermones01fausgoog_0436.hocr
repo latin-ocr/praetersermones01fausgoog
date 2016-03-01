@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./praetersermones01fausgoog/praetersermones01fausgoog_0436.png"; bbox 0 0 3268 5142; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 588 1539 936 1660">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 588 1539 936 1660">
+     <span class='ocr_line' id='line_1_1' title="bbox 588 1539 936 1660; baseline -0.003 -1"><span class='ocrx_word' id='word_1_1' title='bbox 588 1539 936 1660; x_wconf 83' lang='lat' dir='ltr'>RURIOH</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 191 1976 1323 2128">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 191 1976 1323 2128">
+     <span class='ocr_line' id='line_1_2' title="bbox 191 1976 1323 2128; baseline 0.002 -2"><span class='ocrx_word' id='word_1_2' title='bbox 191 1977 795 2128; x_wconf 81' lang='lat' dir='ltr'>EPISTULARUM</span> <span class='ocrx_word' id='word_1_3' title='bbox 850 1977 1086 2128; x_wconf 84' lang='lat' dir='ltr'><strong>LIBRI</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1144 1976 1323 2128; x_wconf 86' lang='lat' dir='ltr'><strong>DUO.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 329 2736 1189 2822">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 329 2736 1189 2822">
+     <span class='ocr_line' id='line_1_3' title="bbox 329 2736 1189 2822; baseline 0 -2"><span class='ocrx_word' id='word_1_5' title='bbox 329 2736 586 2822; x_wconf 77' lang='lat' dir='ltr'><strong>EPISTULAE</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 612 2737 674 2820; x_wconf 79' lang='lat' dir='ltr'><strong>AD</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 700 2737 930 2822; x_wconf 77' lang='lat' dir='ltr'>RURICIUM</span> <span class='ocrx_word' id='word_1_8' title='bbox 956 2737 1189 2822; x_wconf 79' lang='lat' dir='ltr'><strong>SORIPTAE.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1638 5142">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1638 5142">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1638 5142; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 0 0 1638 5142; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

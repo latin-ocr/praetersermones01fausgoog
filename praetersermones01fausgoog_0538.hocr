@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./praetersermones01fausgoog/praetersermones01fausgoog_0538.png"; bbox 0 0 3290 5152; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 610 2054 1022 2186">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 610 2054 1022 2186">
+     <span class='ocr_line' id='line_1_1' title="bbox 610 2054 1022 2186; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 610 2054 1022 2186; x_wconf 80' lang='lat' dir='ltr'><strong>APPENDIX:</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 324 2405 1303 2511">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 324 2405 1303 2511">
+     <span class='ocr_line' id='line_1_2' title="bbox 324 2405 1303 2511; baseline -0.004 -1"><span class='ocrx_word' id='word_1_2' title='bbox 324 2407 570 2511; x_wconf 82' lang='lat' dir='ltr'>FAUSTI</span> <span class='ocrx_word' id='word_1_3' title='bbox 612 2409 700 2509; x_wconf 83' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 741 2407 1050 2509; x_wconf 79' lang='lat' dir='ltr'>RATIONE</span> <span class='ocrx_word' id='word_1_5' title='bbox 1092 2405 1303 2507; x_wconf 78' lang='lat' dir='ltr'><strong>FIDEI.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1650 5152">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1650 5152">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1650 5152; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 0 0 1650 5152; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
