@@ -1,0 +1,8 @@
+V = codex Palatinus 241 saec. X.
+P = codex Parisinus 12203 saec. X.
+R = codex Baginensis 194saeo.xl1.
+
+v = lectio uulgata.
+
+ 
+
